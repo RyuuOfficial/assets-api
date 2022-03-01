@@ -1,2 +1,2 @@
 # asset
-ASSETS FOR [ZEKS.XYZ](https://zeks.xyz)
+Asset For My Apikey
